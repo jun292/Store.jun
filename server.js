@@ -81,5 +81,5 @@ app.use((err, req, res, next) => {
 });
 
 app.listen(PORT, () => {
-    console.log(`QOUPAY STORE running on http://localhost:${PORT}`);
+    console.log(`JUN STORE running on http://localhost:${PORT}`);
 });
