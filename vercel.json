@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "qoupay-store",
+  "name": "jun-store",
   "builds": [
     {
       "src": "server.js",
